@@ -28,8 +28,7 @@
       </div>
     </div>
     <div>
-      Image of the running icon
-      <!-- <img class="image" src="./crypto-devs.svg" /> -->
+      <img class="image" src="./assets/running-man.png" />
     </div>
   </main>
   <footer class="footer">
